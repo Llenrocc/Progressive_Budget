@@ -1,0 +1,23 @@
+{
+  "name": "Progressive_Budget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Llenrocc/Progressive_Budget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Llenrocc/Progressive_Budget/issues"
+  },
+  "homepage": "https://github.com/Llenrocc/Progressive_Budget#readme",
+  "dependencies": {
+    "mongoose": "^5.10.13"
+  }
+}
