@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Llenrocc/Progressive_Budget#readme",
   "dependencies": {
-    "mongoose": "^5.10.13"
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13",
+    "morgan": "^1.10.0"
   }
 }
